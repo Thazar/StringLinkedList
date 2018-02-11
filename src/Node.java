@@ -12,14 +12,14 @@ public class Node {
             next = new Node();
             next.item = newItem + " ";
             next.count = count + 1;
-        } else if (next != null) {
+        } else
             next.insert(newItem);
-        }
     }
+
 
     public void display() {
         if (item != null) {
-            System.out.print(item);
+            System.out.print("|" + count + ": " + item + "|  ");
         }
         if (next != null) {
             next.display();
@@ -30,7 +30,7 @@ public class Node {
         if (count == number) {
             return item;
         } else if (next == null) {
-            return "This Node is Empty";
+            return "Error: Node number: " + number + " not Exist";
         } else return next.get(number);
     }
 
