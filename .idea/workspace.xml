@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa214924-b479-40ba-aa5c-773cdb1f13e7" name="Default" comment="just testing&#10;changed display function to show it more precisly also with count variable.&#10;added reemove() function.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestingWithLoop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="aa214924-b479-40ba-aa5c-773cdb1f13e7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Node.java" afterPath="$PROJECT_DIR$/src/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Testing.java" afterPath="$PROJECT_DIR$/src/Testing.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -282,7 +278,7 @@
       <option name="presentableId" value="Default" />
       <updated>1518303284658</updated>
       <workItem from="1518303289821" duration="11155000" />
-      <workItem from="1518458719092" duration="300000" />
+      <workItem from="1518458719092" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="just testing&#10;changed display function to show it more precisly also with count variable.">
       <created>1518307993746</created>
@@ -291,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518307993746</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="just testing&#10;changed display function to show it more precisly also with count variable.&#10;added reemove() function.">
+      <created>1518459023647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518459023647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11455000" />
+    <option name="totallyTimeSpent" value="11472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
